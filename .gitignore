@@ -1,0 +1,8 @@
+
+# Secrets and data files (added by Secret Hunter cleanup)
+.env
+.env.*
+!.env.example
+.envrc
+.vs/
+*.sqlite
